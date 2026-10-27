@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ===== Primary Brand Colors ===== -->
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryVariant">#003c8f</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#2E7D32</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+
+    <!-- ===== Search Card ===== -->
+    <!-- White card background for the search panel -->
+    <color name="search_card_background">#FFFFFF</color>
+
+    <!-- ===== Map Background ===== -->
+    <!-- Light grey shown behind the floor map image -->
+    <color name="map_background">#F0F4F8</color>
+
+    <!-- ===== Text Colors ===== -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#666666</color>
+
+    <!-- ===== Divider / Stroke ===== -->
+    <color name="divider_color">#E0E0E0</color>
+    <!-- Stroke color for the TextInputLayout outlined box border -->
+    <color name="text_input_stroke">#BDBDBD</color>
+
+    <!-- ===== Route Drawing (used by MapOverlayView) ===== -->
+    <color name="route_line">#1565C0</color>
+    <color name="start_marker">#2E7D32</color>
+    <color name="end_marker">#C62828</color>
+
+</resources>
